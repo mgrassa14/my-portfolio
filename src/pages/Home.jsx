@@ -3,17 +3,16 @@ function Home() {
     <main>
       {/* Hero Section */}
       <section className="hero">
-        <h1>Hi, I'm [Your Name]</h1>
-        <p>Aspiring web developer & creative thinker</p>
+        <h1>Hi, I'm Maria</h1>
+        <p>Aspiring Software Engineer</p>
       </section>
 
       {/* About Section */}
       <section id="about" className="section">
         <h2>About Me</h2>
         <p>
-          I'm a student learning web development. I love building things with
-          code and exploring new technologies. Currently studying at
-          [University].
+          I'm a student at Cal State University of San Marcos.
+          I am looking to gain experience through internships and work my way to successful career.
         </p>
       </section>
 
@@ -40,8 +39,9 @@ function Home() {
       {/* Contact Section */}
       <section id="contact" className="section">
         <h2>Contact</h2>
-        <p>Email: yourname@example.com</p>
-        <p>GitHub: github.com/yourusername</p>
+        <p>Email: mgrassa00@gmail.com</p>
+        <p>GitHub: https://github.com/mgrassa14</p>
+        <p>Linkedin: https://www.linkedin.com/in/maria-grassa/</p>
       </section>
     </main>
   );
