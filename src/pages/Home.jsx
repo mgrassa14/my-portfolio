@@ -39,9 +39,9 @@ function Home() {
       {/* Contact Section */}
       <section id="contact" className="section">
         <h2>Contact</h2>
-        <p>Email: mgrassa00@gmail.com</p>
-        <p>GitHub: https://github.com/mgrassa14</p>
-        <p>Linkedin: https://www.linkedin.com/in/maria-grassa/</p>
+        <p>Email: <a href="mailto:mgrassa00@gmail.com">mgrassa00@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/mgrassa14">https://github.com/mgrassa14</a></p>
+        <p>Linkedin: <a href="https://www.linkedin.com/in/maria-grassa/">https://www.linkedin.com/in/maria-grassa/</a></p>
       </section>
     </main>
   );

@@ -103,6 +103,13 @@ body {
   border-radius: 0 8px 8px 0;
 }
 
+figure {
+  max-width: 500px;
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+}
+
 /* :root {
   --text: #6b6375;
   --text-h: #08060d;
