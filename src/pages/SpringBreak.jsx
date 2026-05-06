@@ -4,11 +4,7 @@ import pickingyarn from '../assets/pickingyarn.jpeg';
 function SpringBreak() {
   return (
     <main className="section">
-      <h2>My Blog</h2>
-      <p>
-        Welcome to my blog! This is where I'll document my spring break
-        adventures.
-      </p>
+      <h2>SpringBreak</h2>
 
       <article className="blog-post">
         <h3>Spring Break 2026</h3>

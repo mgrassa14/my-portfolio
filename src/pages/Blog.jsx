@@ -9,11 +9,11 @@ function Blog() {
       </p>
       <div className="blogs-grid">
         <BlogCard
-          title="Spring Break!"
+          title="🐰🐇Spring Break!🐣🌷"
           to="/SpringBreak"
         />
         <BlogCard
-          title="Bachelorete Weekend! "
+          title="˖°𓇼🌊Bachelorete Weekend!⋆🐚🫧"
           to="/BachWeekend"
         />
       </div>
